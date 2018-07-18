@@ -1,0 +1,25 @@
+{
+  "name": "mean-6ix",
+  "version": "1.0.0",
+  "description": "learning mean stack development ",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mean",
+    "developer"
+  ],
+  "author": "paul6ix",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongodb": "^2.2.33",
+    "mongoose": "^4.4.8"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}

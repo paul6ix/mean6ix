@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5b255dd59ec9be86cde57e67"},"name":"6ix","role":"Nosql database","author":"paul chidi"}
+{"_id":{"$oid":"5b2561719ec9be86cde57e68"},"name":"python","role":"OOP"}
+{"_id":{"$oid":"5b2561719ec9be86cde57e69"},"name":"javascript","role":"event Driven"}
+{"_id":{"$oid":"5b2561719ec9be86cde57e6a"},"name":"Perl","role":"Script"}
